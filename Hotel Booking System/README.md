@@ -1,4 +1,4 @@
-# 🏨 Hotel Booking System - Dart Implementation
+# 🏨 Hotel Booking System 
 
 ## 🧾 Overview
 This project simulates a **Hotel Booking System** implemented using **Object-Oriented Programming (OOP)** principles in Dart. It allows customers to book rooms in a hotel, view available rooms, and calculate the total price based on check-in and check-out dates.
