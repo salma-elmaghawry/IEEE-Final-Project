@@ -16,6 +16,10 @@ This project simulates a **Hotel Booking System** implemented using **Object-Ori
 3. 👤 **Customer**: Books rooms and stores personal data
 4. 📄 **Booking**: Links customer to a room and date range
 
+![uml](https://github.com/user-attachments/assets/8ae3e73e-52b0-43e1-8def-d41569b5c816)
+
+
+
 ## 🛠️ Requirements
 - ✅ Dart SDK installed → [Download Dart](https://dart.dev/get-dart)
 
