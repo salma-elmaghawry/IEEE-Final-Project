@@ -23,6 +23,7 @@ Welcome to the **Hangman Game** – a fun, interactive command-line game built w
 4. If you guess all letters correctly before running out of attempts — you win 🎉  
    If you run out of attempts — game over. 💀
 
+
 ---
 
 ## 📦 Requirements
